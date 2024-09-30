@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sudo trash /home/batan/.dot/.git
 clear
 for i in $(ls -a /home/batan/.dot/);
 do
